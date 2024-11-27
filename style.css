@@ -1,0 +1,72 @@
+* {
+   font-family: "Sora", sans-serif;
+   font-weight: 400;
+}
+
+header {
+   background-color: #E2E3D1;
+}
+
+.nav-item a {
+   color: black;
+}
+
+#profile-button {
+   background-color: #4B5757;
+}
+
+.nav-item a:hover {
+   color: #4B5757;
+}
+
+#app{
+   color: #7C8B6E
+}
+
+.resume-button{
+   background-color: #4B5757;
+   color: white;
+}
+
+.resume-button a{
+   text-decoration: none;
+   color: white;
+}
+
+.prof-icon{
+   color: #7C8B6E;
+}
+
+.btn-project {
+   background-color: #4B5757;
+}
+.btn-project a{
+   text-decoration: none;
+   color: white;
+}
+
+.card-header{
+   background-color: #E2E3D1;
+}
+
+.btn-certification{
+   background-color: #4B5757;
+   color: white;
+}
+
+.contact-icon{
+   color: #7C8B6E;
+}
+
+.btn-contact{
+   background-color: #4B5757;
+   color: white;
+}
+
+footer{
+   background-color: #E2E3D1;
+}
+
+.footer-icons{
+   color: #4B5757;
+}
